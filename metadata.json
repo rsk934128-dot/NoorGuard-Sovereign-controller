@@ -1,0 +1,8 @@
+{
+  "name": "NoorGuard Sovereign Controller",
+  "description": "An AI-powered Zero-Trust Remote Monitor and Sovereign Digital Asset Matrix system with Google Drive secure logging integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
